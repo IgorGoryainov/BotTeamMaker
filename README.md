@@ -10,4 +10,4 @@
 * Ввести в main.py вместо token (6 строка), полученный токен  
 
 Должно получится как-то так:
-![alt text](figures/img.png)
+![alt text](image_rule.jpg)

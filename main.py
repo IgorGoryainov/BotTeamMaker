@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import telebot
-https://drive.google.com/drive/folders/0B0sOedFLBCn0a2U5NS12THlhNDg?resourcekey=0-PSenJDdULGcM_nWsfeyAmg
 import data_base as db
 import shutil
 import os
